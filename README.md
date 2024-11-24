@@ -17,14 +17,17 @@ This is a simple and interactive Quiz Application designed using HTML, CSS, and 
 ## 🖼️ Screenshots
 **1. Welcome Screen**  
 Displays a "Start Quiz" button and an info box with quiz rules.
+
 ![preview](/start.png)
 
 **2. Quiz Interface**  
 Interactive quiz layout with questions, options, and a timer.
+
 ![preview](/preview.png)
 
 **3. Result Screen**  
 Final screen displaying the user's score and options to replay or quit.
+
 ![preview](/finsh.png)
 ---
 
@@ -37,6 +40,7 @@ Final screen displaying the user's score and options to replay or quit.
 │   ├── questions.js  # File containing all quiz questions and options
 │   └── script.js     # Main JavaScript file handling app logic
 └── README.md         # This README file
+```
 
 ## 🛠️ Setup Instructions
 
@@ -47,11 +51,15 @@ Final screen displaying the user's score and options to replay or quit.
 
 
 ## 📄 Usage
-1.Click on the Start Quiz button to begin.
-2.Follow the rules displayed in the info box.
-3.Select an answer before the timer runs out.
-4.View your final score after completing the quiz.
-5.Replay the quiz or exit using the provided options.
+<div>
+   <ul>
+      <li>1.Click on the Start Quiz button to begin.</li>
+      <li>2.Follow the rules displayed in the info box.</li>
+      <li>3.Select an answer before the timer runs out.</li>
+      <li>4.View your final score after completing the quiz.</li>
+      <li>5.Replay the quiz or exit using the provided options.</li>
+   </ul>
+</div>
 
 ---
 Happy Hacking!
